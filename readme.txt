@@ -1,0 +1,1 @@
+1. Tep nongnghiep_iot_gateway phai nam chung thu muc voi tep certs
